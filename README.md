@@ -5,5 +5,5 @@ This is a simple script to update the golang version on your system. It will dow
 ### Usage
 
 ```bash
-$ ./golang-update.sh
+$ bash ./golang-update.sh
 ```
